@@ -1,0 +1,5 @@
+{
+  "name": "ElginPrint Pro",
+  "description": "A label generator and printing application for Elgin L42 Pro thermal printers.",
+  "requestFramePermissions": []
+}
